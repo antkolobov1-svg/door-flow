@@ -1,0 +1,1 @@
+{ "name": "door-flow", "version": "0.1.0", "description": "Путь двери: шаги каждой модели, живьём с MSI", "types": "./types/index.d.ts" }
